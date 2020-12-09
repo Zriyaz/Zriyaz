@@ -4,7 +4,7 @@
 
 <br />
 
-Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu Engineering College, Erode(India), having a keen interest in full stack web develper and machine learning 💻 trying to learn and improve myself 🚀.
+Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu Engineering College, Erode(India), having a keen interest in full stack web developement and machine learning 💻 trying to learn and improve myself 🚀.
 <br/>
 
 ## Technologies I am interested in :computer:
@@ -15,6 +15,7 @@ Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu E
 - Deep Learning
   <br/>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+  </br>
 
 **About Me:**
 
@@ -44,6 +45,9 @@ Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu E
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+ </br>
+ </br>
+
 ![Riyaz's github stats](https://github-readme-stats.vercel.app/api?username=Zriyaz&show_icons=true&hide_border=true)
 <br />
 
@@ -53,8 +57,7 @@ Please, feel free to clone/download my projects and give your inputs.✌
 <br/>
 Happy Coding!!
 
-</br>
-### Connect with me:
+**Connect with me:**
 
 [<img align="left" alt="riyaz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kazmi| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
