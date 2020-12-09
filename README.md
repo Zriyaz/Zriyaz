@@ -1,12 +1,30 @@
-### Hi there, I'm Md Riyaz - [website] 👋
+### Hi! I'm Riyaz Here<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
-## I'm a Full Stack MERN Web Developer
+### Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 🔭 I’m currently doing MCA in final year from KONGU ENGINEERING COLLEGE [college]!
-- 🌱 I’m currently learning MERN stack development 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love coding and traveling
+<br />
+
+Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu Engineering College, Erode(India), having a keen interest in data science and machine learning 💻 trying to learn and improve myself 🚀.
+<br/>
+
+## Technologies I am interested in :computer:
+
+- Frontend and Backend Web Development
+- iOS/android app developer
+- Machine Learning
+- Deep Learning
+  <br/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
+**About Me:**
+
+- 👨🏽‍💻 MERN Stack enthusiast.
+- 💬 Let's talk about technologies and stuffs.
+- 👨🏽‍💼 Improving problem solving skiils.
+- 🙍 Open Source Contributor
+- ⚡️ Visit my portfolio here: [Riyaz](https://riyazportfolio.netlify.app/)
+- 📫 Mail me at: mdriyazuddine17@gmail.com
+- 📝[Resume](https://drive.google.com/file/d/1IxoCqBkg6Cqd9MO_0zUzwKzoEWBtcpPy/view?usp=sharing)
 
 ### Connect with me:
 
@@ -35,8 +53,14 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+![Riyaz's github stats](https://github-readme-stats.vercel.app/api?username=Zriyaz&show_icons=true&hide_border=true)
 <br />
-<br />
+
+You're on my Github profile now!!
+<br/>
+Please, feel free to clone/download my projects and give your inputs.✌
+<br/>
+Happy Coding!!
 
 [website]: https://riyazportfolio.netlify.app/
 [twitter]: https://twitter.com/riyaz_kazmi
