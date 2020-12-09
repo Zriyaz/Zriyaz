@@ -1,16 +1,16 @@
-### Hi! I'm Riyaz Here<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+# Hi! I'm Riyaz Here<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 ### Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <br />
 
-Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu Engineering College, Erode(India), having a keen interest in data science and machine learning 💻 trying to learn and improve myself 🚀.
+Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu Engineering College, Erode(India), having a keen interest in full stack web develper and machine learning 💻 trying to learn and improve myself 🚀.
 <br/>
 
 ## Technologies I am interested in :computer:
 
 - Frontend and Backend Web Development
-- iOS/android app developer
+- iOS/Android app development
 - Machine Learning
 - Deep Learning
   <br/>
@@ -20,21 +20,12 @@ Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu E
 
 - 👨🏽‍💻 MERN Stack enthusiast.
 - 💬 Let's talk about technologies and stuffs.
-- 👨🏽‍💼 Improving problem solving skiils.
+- 👨🏽‍💼 Improving my Data structures & Algorithms and Distributed Systems Design.
 - 🙍 Open Source Contributor
 - ⚡️ Visit my portfolio here: [Riyaz](https://riyazportfolio.netlify.app/)
 - 📫 Mail me at: mdriyazuddine17@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/1IxoCqBkg6Cqd9MO_0zUzwKzoEWBtcpPy/view?usp=sharing)
-
-### Connect with me:
-
-[<img align="left" alt="riyaz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kazmi| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="abdul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kazmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="md | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+  <br />
 
 ### Languages and Tools:
 
@@ -61,6 +52,15 @@ You're on my Github profile now!!
 Please, feel free to clone/download my projects and give your inputs.✌
 <br/>
 Happy Coding!!
+
+</br>
+### Connect with me:
+
+[<img align="left" alt="riyaz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kazmi| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="abdul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kazmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="md | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://riyazportfolio.netlify.app/
 [twitter]: https://twitter.com/riyaz_kazmi
