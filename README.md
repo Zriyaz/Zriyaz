@@ -4,15 +4,15 @@
 
 <br />
 
-Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu Engineering College, Erode(India), having a keen interest in full stack web developement and machine learning 💻 trying to learn and improve myself 🚀.
+Experienced Frontend Developer with 3+ years of professional expertise specializing in TypeScript, React, Next.js, and React Native. Dedicated to crafting captivating user interfaces and dynamic web experiences. Continuously learning and adapting to industry trends to deliver cutting-edge solutions. Ready to ignite innovation and elevate projects to the next level.
 <br/>
 
-## Technologies I am interested in :computer:
+## Technologies I am interested:-
 
-- Frontend and Backend Web Development
-- iOS/Android app development
-- Machine Learning
-- Deep Learning
+- Frontend Development
+- React Native
+- NextJS
+- 
   <br/>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   </br>
@@ -20,12 +20,10 @@ Pursuing master's in Computer Applications (Final Year) 👨‍💻 from Kongu E
 **About Me:**
 
 - 👨🏽‍💻 MERN Stack enthusiast.
-- 💬 Let's talk about technologies and stuffs.
-- 👨🏽‍💼 Improving my Data structures & Algorithms and Distributed Systems Design.
+- 💬 Let's talk about technologies and stuff.
 - 🙍 Open Source Contributor
-- ⚡️ Visit my portfolio here: [Riyaz](https://riyazportfolio.netlify.app/)
+- ⚡️ Visit my portfolio here: [Riyaz](https://mdriyaz.netlify.app)
 - 📫 Mail me at: mdriyazuddine17@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1IxoCqBkg6Cqd9MO_0zUzwKzoEWBtcpPy/view?usp=sharing)
   <br />
 
 ### Languages and Tools:
@@ -65,7 +63,7 @@ Happy Coding!!
 [<img align="left" alt="kazmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="md | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://riyazportfolio.netlify.app/
+[website]: https://mdriyaz.netlify.app
 [twitter]: https://twitter.com/riyaz_kazmi
 [youtube]: https://www.youtube.com/channel/UCwlbv3FGUaOFKyybMILC7MQ?view_as=subscriber
 [instagram]: https://www.instagram.com/kazmiabdulriyaz/
