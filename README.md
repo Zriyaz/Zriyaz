@@ -4,7 +4,7 @@
 
 <br />
 
-Experienced Frontend Developer with 3+ years of professional expertise specializing in TypeScript, React, Next.js, and React Native. Dedicated to crafting captivating user interfaces and dynamic web experiences. Continuously learning and adapting to industry trends to deliver cutting-edge solutions. Ready to ignite innovation and elevate projects to the next level.
+Senior Frontend Developer with expertise specializing in TypeScript, React, Next.js, and React Native. Dedicated to crafting captivating user interfaces and dynamic web experiences. Continuously learning and adapting to industry trends to deliver cutting-edge solutions. Ready to ignite innovation and elevate projects to the next level.
 <br/>
 
 ## Technologies I am interested:-
