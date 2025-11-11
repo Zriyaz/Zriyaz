@@ -1,75 +1,142 @@
-# Hi! I'm Riyaz Here<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+<!-- Profile README for @Zriyaz -->
 
-### Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<h1 align="center">👋 Hi, I'm Md Riyaz Ansari</h1>
 
-<br />
+<p align="center">
+  <b>Senior Frontend Engineer</b> — TypeScript · Node.js · React · Next.js · React Native
+</p>
 
-Senior Frontend Developer with expertise specializing in TypeScript, React, Next.js, and React Native. Dedicated to crafting captivating user interfaces and dynamic web experiences. Continuously learning and adapting to industry trends to deliver cutting-edge solutions. Ready to ignite innovation and elevate projects to the next level.
-<br/>
+<p align="center">
+  <a href="https://riyaz-dev-portfolio.netlify.app">🌐 Portfolio</a> ·
+  <a href="mailto:mdriyazuddine17@gmail.com">📧 Email</a> ·
+  <a href="https://www.linkedin.com/in/md-riyaz-ansari-8a8a72128/">💼 LinkedIn</a> ·
+  <a href="https://twitter.com/riyaz_kazmi">🐦 Twitter</a>
+</p>
 
-## Technologies I am interested:-
+---
 
-- Frontend Development
-- React Native
-- NextJS
-- 
-  <br/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-  </br>
+## 🚀 About Me
 
-**About Me:**
+- 💻 **Full Stack Engineer** with **5+ years of experience** building performant, scalable, and user-centric web and mobile applications.  
+- ⚡ Skilled in **modern frontend architectures** (React, Next.js, React Native) and **robust backend systems** (Node.js, Express.js, MongoDB, SQL).  
+- 🎯 Driven by **user experience, code quality, and measurable business impact**.  
+- 🧩 Passionate about creating **design systems**, **real-time apps**, and **high-performance interfaces**.  
+- 🧠 Lifelong learner, open-source contributor, and **mentor/leader** helping teams deliver exceptional digital products.  
 
-- 👨🏽‍💻 MERN Stack enthusiast.
-- 💬 Let's talk about technologies and stuff.
-- 🙍 Open Source Contributor
-- ⚡️ Visit my portfolio here: [Riyaz](https://mdriyaz.netlify.app)
-- 📫 Mail me at: mdriyazuddine17@gmail.com
-  <br />
+---
 
-### Languages and Tools:
+## 🛠️ What I Do
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+### 💻 Frontend Engineering
+- React, Next.js (App Router / SSR / ISR), TypeScript, Zustand, Redux, TanStack Query  
+- Building responsive, accessible, and high-performance user interfaces  
+- Creating scalable design systems and reusable component libraries  
 
- </br>
- </br>
+### 📱 Mobile Development
+- React Native, Expo, Native Module integration  
+- Developing cross-platform apps with smooth animations and native performance  
 
-![Riyaz's github stats](https://github-readme-stats.vercel.app/api?username=Zriyaz&show_icons=true&hide_border=true)
-<br />
+### ⚙️ Backend Engineering
+- Node.js, Express.js, MongoDB, SQL, Redis, WebSocket  
+- Designing RESTful and real-time APIs with scalable architectures  
+- Implementing caching, session management, and background jobs for better performance  
 
-You're on my Github profile now!!
-<br/>
-Please, feel free to clone/download my projects and give your inputs.✌
-<br/>
-Happy Coding!!
+### 🎨 UI/UX & Performance
+- Design systems, accessibility (WCAG), theming, and component consistency  
+- Lighthouse tuning, code-splitting, prefetching, caching/CDN, lazy loading  
 
-**Connect with me:**
+### ✅ Quality & Testing
+- Type-safe APIs, Jest, React Testing Library, Playwright  
+- CI/CD with GitHub Actions, code reviews, and DX-focused tooling  
 
-[<img align="left" alt="riyaz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kazmi| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="abdul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kazmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="md | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://mdriyaz.netlify.app
-[twitter]: https://twitter.com/riyaz_kazmi
-[youtube]: https://www.youtube.com/channel/UCwlbv3FGUaOFKyybMILC7MQ?view_as=subscriber
-[instagram]: https://www.instagram.com/kazmiabdulriyaz/
-[linkedin]: https://www.linkedin.com/in/md-riyaz-ansari-8a8a72128/
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
-[college]: https://kongu.ac.in/
+## 💡 Featured Projects
+
+### 🧑‍💻 [Online Coding Platform](https://pro-code-pearl.vercel.app/)
+**Tech:** TypeScript, Next.js, Convex, Clerk Auth, Webhooks, Shadcn UI, TailwindCSS  
+- Developed a full-stack coding platform where developers can **practice, share, and manage code submissions**.  
+- Implemented **authentication, live data sync, and responsive UI** for a seamless developer experience.  
+
+---
+
+### 🗂️ [File Storage](https://file-storage-gold.vercel.app/)
+**Tech:** Next.js, TypeScript, HTML5, CSS3  
+- Built a **secure document management system** with user authentication and organization-level access control.  
+- Focused on **data privacy, responsive layouts**, and smooth file upload workflows.  
+
+---
+
+### 🎬 [Movie Finder](https://movifinder.netlify.app)
+**Tech:** React.js, Styled Components, IMDB API, HTML5, CSS3  
+- Created a **movie search application** fetching data from the IMDB API with optimized API calls and dynamic UI rendering.  
+- Designed a **clean, modern interface** for browsing movie details quickly and efficiently.  
+
+
+---
+
+## 🧰 Skills & Tools
+
+**Languages:** TypeScript, JavaScript (ES6+), HTML, CSS/Sass  
+**Frameworks:** React, Next.js, React Native, Node.js  
+**APIs & Databases:** REST, GraphQL, Prisma, MongoDB, PostgreSQL  
+**Tooling:** Vite, Webpack, Turborepo, PNPM, ESLint, Prettier  
+**Testing / CI:** Jest, React Testing Library, Playwright, GitHub Actions  
+**Cloud / Infra:** Vercel, Netlify, AWS (Basics), Docker
+
+---
+
+## 🏆 Highlights
+
+- 🧱 Built & scaled **component libraries** adopted across multiple teams and products.
+- ⚙️ Led **migrations to TypeScript** and **modern React patterns** (hooks, server components).
+- ⚡ Improved **performance metrics** (Lighthouse, CLS, TTI) through code-splitting and caching.
+- 👥 Mentored engineers and collaborated closely with design/product teams for user-first features.
+
+---
+
+## 🌍 Open Source & Community
+
+- 💬 I contribute to open-source projects and share learnings through blogs, talks, and tutorials.
+- 🎙 Topics I love discussing: **React/Next.js patterns**, **performance**, **TypeScript**, and **accessibility**.
+
+---
+
+## 🤝 Let’s Connect
+
+- 🌐 [Portfolio](https://riyaz-dev-portfolio.netlify.app)
+- 📧 [Email](mailto:mdriyazuddine17@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-riyaz-ansari-8a8a72128/)
+- 🐦 [Twitter](https://twitter.com/riyaz_kazmi)
+- 🎥 [YouTube](https://www.youtube.com/channel/UCwlbv3FGUaOFKyybMILC7MQ)
+- 📸 [Instagram](https://www.instagram.com/kazmiabdulriyaz/)
+
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<a href="https://github.com/Zriyaz">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zriyaz&show_icons=true&count_private=true&hide_border=true&theme=radical" 
+       alt="Riyaz's GitHub Stats" width="49%" />
+</a>
+
+<!-- GitHub Streak -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Zriyaz&theme=radical&hide_border=true" 
+       alt="Riyaz's GitHub Streak" width="49%" />
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/Zriyaz">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zriyaz&layout=compact&langs_count=8&hide_border=true&theme=radical" 
+       alt="Top Languages" width="49%" />
+</a>
+</div>
+
+
+<!-- Optional: Pin key projects -->
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zriyaz&repo=REPO_NAME&show_owner=true)](https://github.com/Zriyaz/REPO_NAME)
+-->
